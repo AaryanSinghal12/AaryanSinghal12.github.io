@@ -13,7 +13,7 @@ Welcome to my portfolio! Here you can explore my skills, projects, and experienc
 - Visual Storytelling, Game Art & Design
 
 ## Projects
-- **LSD GameJam submission** - Programming, UI/UX
+- **Procedurally generated city - Programming
 - **Gamification of Fintech Hackathon** - Programming
 - **Pacman and Tetris clones** - Built using SFML
 - **2D Sidescroller Platformer on Unity** - Developed with original assets
